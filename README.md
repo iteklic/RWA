@@ -4,4 +4,4 @@
 
 Aplikacija pisana u HTML, CSS, JavaScript, PHP.
 
-$
+$git gi
